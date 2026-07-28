@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: yasu83/kubernetes-cicd:202607281318
+          image: yasu83/kubernetes-cicd:202607281334
           ports:
             - containerPort: 80
